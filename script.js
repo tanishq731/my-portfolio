@@ -1,5 +1,4 @@
- 
 function sayHello() {
-    alert("Hey! Thanks for visiting 😄");
+    alert("Hey there! Thanks for checking out my portfolio. 😊");
   }
   
